@@ -1,0 +1,27 @@
+h1{
+    font-size: 30px;
+    color: red;
+    text-align: center;
+    font-family: Arial;
+}
+body{
+    background-color: lightgray;
+    font-family: Arial;
+    margin: 10 px;
+
+}
+
+
+ol.inDam{
+    font-weight: bold;
+    width: 70% ;
+    margin: 0 auto;
+
+}
+
+ul.binhThuong{
+    font-weight: normal;
+    color: grey;
+}
+
+
